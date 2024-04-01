@@ -19,3 +19,12 @@ nav ul li a {
     color: #fff;
     text-decoration: none;
 }
+
+.center-text {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
