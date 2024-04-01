@@ -1,0 +1,41 @@
+.blogpost-container {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    overflow: hidden;
+    text-align: center;
+}
+
+.blogpost-container h1 {
+    margin-top: 0;
+    color: #333;
+    font-size: 20px;
+}
+
+.blogpost-container p,
+.blogpost-container ul,
+.blogpost-container li {
+    color: #666;
+    margin-bottom: 10px;
+    font-size: 16px;
+    text-align: left;
+}
+
+.container1 {
+    background-color: #f0f0f0;
+}
+
+.container2 {
+    background-color: #e0e0e0;
+}
+
+.container2 h1 {
+    color: #0066cc;
+}
+
+.container2 img {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
